@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_hi6250.mk
+    $(LOCAL_DIR)/omni_venus.mk

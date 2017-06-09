@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-ifeq ($(TARGET_DEVICE), hi6250)
+ifeq ($(TARGET_DEVICE), venus)
 
 include $(call all-makefiles-under, $(call my-dir))
 

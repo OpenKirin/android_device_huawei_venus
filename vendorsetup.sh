@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_hi6250-userdebug
+add_lunch_combo omni_venus-userdebug

@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/huawei/hi6250
+DEVICE_PATH := device/huawei/venus
 
 include device/hisi/6250-common/BoardConfigCommon.mk
 
